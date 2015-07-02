@@ -1,0 +1,1001 @@
+playerID,nameFirst,nameLast,birthCity,MVP,GoldGlove
+bondsba01,Barry,Bonds,Riverside,7,8
+schmimi01,Mike,Schmidt,Dayton,3,10
+rodrial01,Alex,Rodriguez,"New York",3,2
+mantlmi01,Mickey,Mantle,Spavinaw,3,1
+pujolal01,Albert,Pujols,"Santo Domingo",3,1
+camparo01,Roy,Campanella,Philadelphia,3,0
+musiast01,Stan,Musial,Donora,3,0
+foxxji01,Jimmie,Foxx,Sudlersville,3,0
+dimagjo01,Joe,DiMaggio,Martinez,3,0
+berrayo01,Yogi,Berra,"St. Louis",3,0
+mayswi01,Willie,Mays,Westfield,2,12
+benchjo01,Johnny,Bench,"Oklahoma City",2,10
+murphda05,Dale,Murphy,Portland,2,5
+morgajo02,Joe,Morgan,Bonham,2,5
+ripkeca01,Cal,Ripken,"Havre De Grace",2,2
+bankser01,Ernie,Banks,Dallas,2,1
+yountro01,Robin,Yount,Danville,2,1
+robinfr02,Frank,Robinson,Beaumont,2,1
+marisro01,Roger,Maris,Hibbing,2,1
+gehrilo01,Lou,Gehrig,"New York",2,0
+thomafr04,Frank,Thomas,Columbus,2,0
+gonzaju03,Juan,Gonzalez,Arecibo,2,0
+newhoha01,Hal,Newhouser,Detroit,2,0
+hubbeca01,Carl,Hubbell,Carthage,2,0
+willite01,Ted,Williams,"San Diego",2,0
+johnswa01,Walter,Johnson,Humboldt,2,0
+hornsro01,Rogers,Hornsby,Winters,2,0
+greenha01,Hank,Greenberg,"New York",2,0
+cochrmi01,Mickey,Cochrane,Bridgewater,2,0
+robinbr01,Brooks,Robinson,"Little Rock",1,16
+rodriiv01,Ivan,Rodriguez,Manati,1,13
+clemero01,Roberto,Clemente,Carolina,1,12
+hernake01,Keith,Hernandez,"San Francisco",1,11
+griffke02,Ken,Griffey,Donora,1,10
+gibsobo01,Bob,Gibson,Omaha,1,9
+suzukic01,Ichiro,Suzuki,Kasugai,1,9
+sandbry01,Ryne,Sandberg,Spokane,1,9
+mattido01,Don,Mattingly,Evansville,1,9
+dawsoan01,Andre,Dawson,Miami,1,8
+shantbo01,Bobby,Shantz,Pottstown,1,8
+yastrca01,Carl,Yastrzemski,Southampton,1,7
+walkela01,Larry,Walker,"Maple Ridge",1,7
+boyerke01,Ken,Boyer,Liberty,1,5
+lynnfr01,Fred,Lynn,Chicago,1,4
+garvest01,Steve,Garvey,Tampa,1,4
+mcgeewi01,Willie,McGee,"San Francisco",1,3
+pendlte01,Terry,Pendleton,"Los Angeles",1,3
+larkiba01,Barry,Larkin,Cincinnati,1,3
+parkeda01,Dave,Parker,Calhoun,1,3
+caminke01,Ken,Caminiti,Hanford,1,3
+aaronha01,Hank,Aaron,Mobile,1,3
+munsoth01,Thurman,Munson,Akron,1,3
+foxne01,Nellie,Fox,"St. Thomas",1,3
+rolliji01,Jimmy,Rollins,Oakland,1,3
+rosepe01,Pete,Rose,Cincinnati,1,2
+howarel01,Elston,Howard,"St. Louis",1,2
+willsma01,Maury,Wills,Washington,1,2
+mauerjo01,Joe,Mauer,"St. Paul",1,2
+versazo01,Zoilo,Versalles,Veldado,1,2
+bagweje01,Jeff,Bagwell,Boston,1,1
+brettge01,George,Brett,"Glen Dale",1,1
+pedrodu01,Dustin,Pedroia,Woodland,1,1
+torrejo01,Joe,Torre,Brooklyn,1,1
+jenseja01,Jackie,Jensen,"San Francisco",1,1
+henderi01,Rickey,Henderson,Chicago,1,1
+sislege01,George,Sisler,Manchester,1,0
+ofarrbo01,Bob,O'Farrell,Waukegan,1,0
+mccorfr01,Frank,McCormick,"New York",1,0
+guerrvl01,Vladimir,Guerrero,Nizao,1,0
+rizzuph01,Phil,Rizzuto,Brooklyn,1,0
+cobbty01,Ty,Cobb,Narrows,1,0
+collied01,Eddie,Collins,Millerton,1,0
+powelbo01,Boog,Powell,Lakeland,1,0
+friscfr01,Frankie,Frisch,Bronx,1,0
+deandi01,Dizzy,Dean,Lucas,1,0
+gehrich01,Charlie,Gehringer,Fowlerville,1,0
+gordojo01,Joe,Gordon,"Los Angeles",1,0
+wanerpa01,Paul,Waner,Harrah,1,0
+carewro01,Rod,Carew,Gatun,1,0
+tejadmi01,Miguel,Tejada,Bani,1,0
+peckiro01,Roger,Peckinpaugh,Wooster,1,0
+lombaer01,Ernie,Lombardi,Oakland,1,0
+sauerha01,Hank,Sauer,Pittsburgh,1,0
+daubeja01,Jake,Daubert,Shamokin,1,0
+burnsge02,George,Burns,Niles,1,0
+grovele01,Lefty,Grove,Lonaconing,1,0
+hartnga01,Gabby,Hartnett,Woonsocket,1,0
+camildo01,Dolph,Camilli,"San Francisco",1,0
+cavarph01,Phil,Cavarretta,Chicago,1,0
+koufasa01,Sandy,Koufax,Brooklyn,1,0
+bluevi01,Vida,Blue,Mansfield,1,0
+jacksre01,Reggie,Jackson,Wyncote,1,0
+burroje01,Jeff,Burroughs,"Long Beach",1,0
+mitchke01,Kevin,Mitchell,"San Diego",1,0
+morneju01,Justin,Morneau,"New Westminster",1,0
+sosasa01,Sammy,Sosa,"San Pedro de Macoris",1,0
+clemero02,Roger,Clemens,Dayton,1,0
+cansejo01,Jose,Canseco,Havana,1,0
+eckerde01,Dennis,Eckersley,Oakland,1,0
+speaktr01,Tris,Speaker,Hubbard,1,0
+vanceda01,Dazzy,Vance,Orient,1,0
+marioma01,Marty,Marion,Richburg,1,0
+kentje01,Jeff,Kent,Bellflower,1,0
+newcodo01,Don,Newcombe,Madison,1,0
+mccovwi01,Willie,McCovey,Mobile,1,0
+mclaide01,Denny,McLain,Chicago,1,0
+bottoji01,Jim,Bottomley,Oglesby,1,0
+kleinch01,Chuck,Klein,Indianapolis,1,0
+chandsp01,Spud,Chandler,Commerce,1,0
+stargwi01,Willie,Stargell,Earlsboro,1,0
+boudrlo01,Lou,Boudreau,Harvey,1,0
+konstji01,Jim,Konstanty,Strykersville,1,0
+riceji01,Jim,Rice,Anderson,1,0
+cepedor01,Orlando,Cepeda,Ponce,1,0
+waltebu01,Bucky,Walters,Philadelphia,1,0
+allendi01,Dick,Allen,Wampum,1,0
+killeha01,Harmon,Killebrew,Payette,1,0
+fostege01,George,Foster,Tuscaloosa,1,0
+howarry01,Ryan,Howard,"St. Louis",1,0
+vaughmo01,Mo,Vaughn,Norwalk,1,0
+hernawi01,Willie,Hernandez,Aguada,1,0
+schulfr01,Frank,Schulte,Cohocton,1,0
+ruthba01,Babe,Ruth,Baltimore,1,0
+medwijo01,Joe,Medwick,Carteret,1,0
+jonesch06,Chipper,Jones,DeLand,1,0
+robinja02,Jackie,Robinson,Cairo,1,0
+giambja01,Jason,Giambi,"West Covina",1,0
+rosenal01,Al,Rosen,Spartanburg,1,0
+doylela01,Larry,Doyle,Caseyville,1,0
+eversjo01,Johnny,Evers,Troy,1,0
+coopemo01,Mort,Cooper,Atherton,1,0
+elliobo01,Bob,Elliott,"San Diego",1,0
+groatdi01,Dick,Groat,Wilkinsburg,1,0
+baylodo01,Don,Baylor,Austin,1,0
+bellge02,George,Bell,"San Pedro de Macoris",1,0
+fingero01,Rollie,Fingers,Steubenville,1,0
+gibsoki01,Kirk,Gibson,Pontiac,1,0
+maddugr01,Greg,Maddux,"San Angelo",0,18
+kaatji01,Jim,Kaat,Zeeland,0,16
+smithoz01,Ozzie,Smith,Mobile,0,13
+vizquom01,Omar,Vizquel,Caracas,0,11
+jonesan01,Andruw,Jones,Willemstad,0,10
+kalinal01,Al,Kaline,Baltimore,0,10
+alomaro01,Roberto,Alomar,Ponce,0,10
+hunteto01,Torii,Hunter,"Pine Bluff",0,9
+aparilu01,Luis,Aparicio,Maracaibo,0,9
+belanma01,Mark,Belanger,Pittsfield,0,8
+whitefr01,Frank,White,Greenville,0,8
+evansdw01,Dwight,Evans,"Santa Monica",0,8
+maddoga01,Garry,Maddox,Cincinnati,0,8
+mazerbi01,Bill,Mazeroski,Wheeling,0,8
+scottge02,George,Scott,Greenville,0,8
+edmonji01,Jim,Edmonds,Fullerton,0,8
+blairpa01,Paul,Blair,Cushing,0,8
+powervi01,Vic,Power,Arecibo,0,7
+winfida01,Dave,Winfield,"St. Paul",0,7
+mussimi01,Mike,Mussina,Williamsport,0,7
+rolensc01,Scott,Rolen,Evansville,0,7
+whitebi03,Bill,White,Lakewood,0,7
+whitede03,Devon,White,Kingston,0,7
+langsma01,Mark,Langston,"San Diego",0,7
+boonebo01,Bob,Boone,"San Diego",0,7
+floodcu01,Curt,Flood,Houston,0,7
+murphdw01,Dwayne,Murphy,Merced,0,6
+chaveer01,Eric,Chavez,"Los Angeles",0,6
+parkewe01,Wes,Parker,Evanston,0,6
+bellbu01,Buddy,Bell,Pittsburgh,0,6
+puckeki01,Kirby,Puckett,Chicago,0,6
+sundbji01,Jim,Sundberg,Galesburg,0,6
+venturo01,Robin,Ventura,"Santa Maria",0,6
+snowjt01,J.T.,Snow,"Long Beach",0,6
+finlest01,Steve,Finley,"Union City",0,5
+landiji01,Jim,Landis,Fresno,0,5
+niekrph01,Phil,Niekro,Blaine,0,5
+richabo01,Bobby,Richardson,Sumter,0,5
+raderdo02,Doug,Rader,Chicago,0,5
+freehbi01,Bill,Freehan,Detroit,0,5
+pettiga01,Gary,Pettis,Oakland,0,5
+cedence01,Cesar,Cedeno,"Santo Domingo",0,5
+gwynnto01,Tony,Gwynn,"Los Angeles",0,5
+rogerke01,Kenny,Rogers,Savannah,0,5
+santoro01,Ron,Santo,Seattle,0,5
+vanslan01,Andy,"Van Slyke",Utica,0,5
+conceda01,Dave,Concepcion,"Ocumare de la Costa",0,5
+guidrro01,Ron,Guidry,Lafayette,0,5
+stanlmi01,Mickey,Stanley,"Grand Rapids",0,4
+grichbo01,Bobby,Grich,Muskegon,0,4
+willima04,Matt,Williams,Bishop,0,4
+loftoke01,Kenny,Lofton,"East Chicago",0,4
+fernato01,Tony,Fernandez,"San Pedro de Macoris",0,4
+jeterde01,Derek,Jeter,Pequannock,0,4
+palmeji01,Jim,Palmer,"New York",0,4
+crandde01,Del,Crandall,Ontario,0,4
+willibe02,Bernie,Williams,"San Juan",0,4
+hudsoor01,Orlando,Hudson,Darlington,0,4
+mathemi01,Mike,Matheny,Columbus,0,4
+biggicr01,Craig,Biggio,Smithtown,0,4
+grissma02,Marquis,Grissom,Atlanta,0,4
+boonebr01,Bret,Boone,ElCajon,0,4
+trammal01,Alan,Trammell,"Garden Grove",0,4
+geronce01,Cesar,Geronimo,"El Seibo",0,4
+johnsch04,Charles,Johnson,"Fort Pierce",0,4
+penato01,Tony,Pena,"Monte Cristi",0,4
+gaettga01,Gary,Gaetti,Centralia,0,4
+gracema01,Mark,Grace,Winston-Salem,0,4
+heltoto01,Todd,Helton,Knoxville,0,3
+lollash01,Sherm,Lollar,Durham,0,3
+pepitjo01,Joe,Pepitone,Brooklyn,0,3
+otisam01,Amos,Otis,Mobile,0,3
+murraed02,Eddie,Murray,"Los Angeles",0,3
+haddiha01,Harvey,Haddix,Medway,0,3
+wallati01,Tim,Wallach,"Huntington Park",0,3
+santibe01,Benito,Santiago,Ponce,0,3
+reynoha01,Harold,Reynolds,Eugene,0,3
+ausmubr01,Brad,Ausmus,"New Haven",0,3
+wellsve01,Vernon,Wells,Shreveport,0,3
+teixema01,Mark,Teixeira,"Severna Park",0,3
+olerujo01,John,Olerud,Seattle,0,3
+erstada01,Darin,Erstad,Jamestown,0,3
+castilu01,Luis,Castillo,"San Pedro de Macoris",0,3
+minosmi01,Minnie,Minoso,Havana,0,3
+rudijo01,Joe,Rudi,Modesto,0,3
+parrila02,Lance,Parrish,Clairton,0,3
+johnsda02,Davey,Johnson,Orlando,0,3
+beltrca01,Carlos,Beltran,Manati,0,3
+camermi01,Mike,Cameron,LaGrange,0,3
+mcmilro01,Roy,McMillan,Bonham,0,3
+hodgegi01,Gil,Hodges,Princeton,0,3
+trillma01,Manny,Trillo,Caripito,0,3
+batteea01,Earl,Battey,"Los Angeles",0,3
+knoopbo01,Bobby,Knoop,"Sioux City",0,3
+whitalo01,Lou,Whitaker,Brooklyn,0,3
+daviswi02,Willie,Davis,"Mineral Springs",0,3
+pagnoto01,Tom,Pagnozzi,Tucson,0,3
+ordonre01,Rey,Ordonez,Havana,0,3
+leede02,Derrek,Lee,Sacramento,0,3
+malzofr01,Frank,Malzone,Bronx,0,3
+bondsbo01,Bobby,Bonds,Riverside,0,3
+cartega01,Gary,Carter,"Culver City",0,3
+palmera01,Rafael,Palmeiro,Havana,0,3
+daviser01,Eric,Davis,"Los Angeles",0,3
+beltrad01,Adrian,Beltre,"Santo Domingo",0,2
+messean01,Andy,Messersmith,"Toms River",0,2
+edwarjo01,Johnny,Edwards,Columbus,0,2
+alleyge01,Gene,Alley,Richmond,0,2
+berryke01,Ken,Berry,"Kansas City",0,2
+coopece01,Cecil,Cooper,Brenham,0,2
+renteed01,Edgar,Renteria,Barranquilla,0,2
+vinafe01,Fernando,Vina,Sacramento,0,2
+piersji01,Jim,Piersall,Waterbury,0,2
+ageeto01,Tommie,Agee,Magnolia,0,2
+helmsto01,Tommy,Helms,Charlotte,0,2
+reuscri01,Rick,Reuschel,Quincy,0,2
+barfije01,Jesse,Barfield,Joliet,0,2
+mondera01,Raul,Mondesi,"San Cristobal",0,2
+sizemgr01,Grady,Sizemore,Seattle,0,2
+wrighda03,David,Wright,Norfolk,0,2
+reesepo01,Pokey,Reese,Columbia,0,2
+molinya01,Yadier,Molina,Bayamon,0,2
+molinbe01,Bengie,Molina,"Rio Piedras",0,2
+rosebjo01,Johnny,Roseboro,Ashland,0,2
+millafe01,Felix,Millan,Yabucoa,0,2
+spencji01,Jim,Spencer,Hanover,0,2
+nettlgr01,Graig,Nettles,"San Diego",0,2
+boggswa01,Wade,Boggs,Omaha,0,2
+cabreor01,Orlando,Cabrera,Cartagena,0,2
+norrimi01,Mike,Norris,"San Francisco",0,2
+kessido01,Don,Kessinger,"Forrest City",0,2
+fossera01,Ray,Fosse,Marion,0,2
+bowala01,Larry,Bowa,Sacramento,0,2
+gonzaad01,Adrian,Gonzalez,"San Diego",0,2
+victosh01,Shane,Victorino,Wailuku,0,2
+galaran01,Andres,Galarraga,Caracas,0,2
+polanpl01,Placido,Polanco,"Santo Domingo",0,2
+cruzjo02,Jose,Cruz,Arroyo,0,1
+laryfr01,Frank,Lary,Northport,0,1
+murcebo01,Bobby,Murcer,"Oklahoma City",0,1
+metzgro01,Roger,Metzger,Fredericksburg,0,1
+reitzke01,Ken,Reitz,"San Francisco",0,1
+rodriau01,Aurelio,Rodriguez,Cananea,0,1
+davenji01,Jim,Davenport,Siluria,0,1
+winebo01,Bobby,Wine,"New York",0,1
+squirmi01,Mike,Squires,Kalamazoo,0,1
+boyercl02,Clete,Boyer,Cassville,0,1
+saberbr01,Bret,Saberhagen,"Chicago Heights",0,1
+chambch01,Chris,Chambliss,Dayton,0,1
+griffdo01,Doug,Griffin,"South Gate",0,1
+youkike01,Kevin,Youkilis,Cincinnati,0,1
+phillbr01,Brandon,Phillips,Raleigh,0,1
+perezne01,Neifi,Perez,"Villa Mella",0,1
+hershor01,Orel,Hershiser,Buffalo,0,1
+jonesad01,Adam,Jones,"San Diego",0,1
+darliro01,Ron,Darling,Honolulu,0,1
+zimmery01,Ryan,Zimmerman,Washington,0,1
+santajo01,Johan,Santana,Tovar,0,1
+varitja01,Jason,Varitek,Rochester,0,1
+greensh01,Shawn,Green,"Des Plaines",0,1
+izturce01,Cesar,Izturis,Lara,0,1
+grudzma01,Mark,Grudzielanek,Milwaukee,0,1
+buehrma01,Mark,Buehrle,"St. Charles",0,1
+smithre06,Reggie,Smith,Shreveport,0,1
+manniri01,Rick,Manning,"Niagara Falls",0,1
+lopesda01,Davey,Lopes,"East Providence",0,1
+brandja01,Jackie,Brandt,Omaha,0,1
+valenfe01,Fernando,Valenzuela,Navojoa,0,1
+cardele01,Leo,Cardenas,Matanzas,0,1
+hundlra01,Randy,Hundley,Martinsville,0,1
+harrebu01,Bud,Harrelson,Niles,0,1
+fiskca01,Carlton,Fisk,"Bellows Falls",0,1
+lavalmi01,Mike,LaValliere,Charlotte,0,1
+alomasa02,Sandy,Alomar,Salinas,0,1
+mcgwima01,Mark,McGwire,Pomona,0,1
+burleri01,Rick,Burleson,Lynwood,0,1
+griffal01,Alfredo,Griffin,"Santo Domingo",0,1
+thompro01,Robby,Thompson,"West Palm Beach",0,1
+boddimi01,Mike,Boddicker,"Cedar Rapids",0,1
+dernibo01,Bob,Dernier,"Kansas City",0,1
+guilloz01,Ozzie,Guillen,"Ocumare Del Tuy",0,1
+wainwad01,Adam,Wainwright,Brunswick,0,1
+burksel01,Ellis,Burks,Vicksburg,0,1
+frymatr01,Travis,Fryman,Lexington,0,1
+dyeje01,Jermaine,Dye,Oakland,0,1
+moonwa01,Wally,Moon,Bay,0,1
+virdobi01,Bill,Virdon,"Hazel Park",0,1
+olivato01,Tony,Oliva,"Pinar Del Rio",0,1
+milleri01,Rick,Miller,"Grand Rapids",0,1
+fregoji01,Jim,Fregosi,"San Francisco",0,1
+wilsowi02,Willie,Wilson,Montgomery,0,1
+andujjo01,Joaquin,Andujar,"San Pedro de Macoris",0,1
+brinked01,Ed,Brinkman,Cincinnati,0,1
+bellja01,Jay,Bell,"Eglin A.F.B.",0,1
+cowenal01,Al,Cowens,"Los Angeles",0,1
+lindjo01,Jose,Lind,"Toa Baja",0,1
+manwaki01,Kirt,Manwaring,Elmira,0,1
+flynndo01,Doug,Flynn,Lexington,0,1
+lewisda01,Darren,Lewis,Berkeley,0,1
+martiru01,Russell,Martin,"East York",0,1
+liebemi01,Mike,Lieberthal,Glendale,0,1
+mclouna01,Nate,McLouth,Muskegon,0,1
+davisjo02,Jody,Davis,Gainesville,0,1
+mientdo01,Doug,Mientkiewicz,Toledo,0,1
+kempma01,Matt,Kemp,"Midwest City",0,1
+clarkwi02,Will,Clark,"New Orleans",0,1
+knoblch01,Chuck,Knoblauch,Houston,0,1
+rowanaa01,Aaron,Rowand,Portland,0,1
+buhneja01,Jay,Buhner,Louisville,0,1
+brosisc01,Scott,Brosius,Hillsboro,0,1
+hamptmi01,Mike,Hampton,Brooksville,0,1
+siebeno01,Norm,Siebern,"St. Louis",0,1
+nealch01,Charlie,Neal,Longview,0,1
+pinsova01,Vada,Pinson,Memphis,0,1
+treshto01,Tom,Tresh,Detroit,0,1
+maxvida01,Dal,Maxvill,"Granite City",0,1
+bollifr01,Frank,Bolling,Mobile,0,1
+valenel01,Ellis,Valentine,Helena,0,1
+lezcasi01,Sixto,Lezcano,Arecibo,0,1
+hubbske01,Ken,Hubbs,Riverside,0,1
+davalvi01,Vic,Davalillo,Cabimas,0,1
+amaroru01,Ruben,Amaro,Veracruz,0,1
+beckegl01,Glenn,Beckert,Pittsburgh,0,1
+bakerdu01,Dusty,Baker,Riverside,0,1
+carltst01,Steve,Carlton,Miami,0,1
+jorgemi01,Mike,Jorgensen,Passaic,0,1
+beniqju01,Juan,Beniquez,"San Sebastian",0,1
+abreubo01,Bobby,Abreu,Maracay,0,1
+youngmi02,Michael,Young,Covina,0,1
+francje02,Jeff,Francoeur,Atlanta,0,1
+longoev01,Evan,Longoria,Downey,0,1
+bournmi01,Michael,Bourn,Houston,0,1
+lowelmi01,Mike,Lowell,"San Juan",0,1
+grubeke01,Kelly,Gruber,Houston,0,1
+penaca01,Carlos,Pena,"Santo Domingo",0,1
+tidrodi01,Dick,Tidrow,"San Francisco",0,0
+slaugdo01,Don,Slaught,"Long Beach",0,0
+selbaki01,Kip,Selbach,Columbus,0,0
+priesjo01,Johnny,Priest,"St. Joseph",0,0
+milleke02,Keith,Miller,Dallas,0,0
+mckened01,Ed,McKenna,NULL,0,0
+kindaje01,Jerry,Kindall,"St. Paul",0,0
+hoffmra01,Ray,Hoffman,Detroit,0,0
+heideja01,Jack,Heidemann,Brenham,0,0
+farlebo01,Bob,Farley,Watsontown,0,0
+dybzije01,Jerry,Dybzinski,Cleveland,0,0
+carlybu01,Buddy,Carlyle,Omaha,0,0
+buelofr01,Fritz,Buelow,Berlin,0,0
+allenbe01,Bernie,Allen,"East Liverpool",0,0
+wasdeji01,Jimmy,Wasdell,Cleveland,0,0
+greenni01,Nick,Green,Pensacola,0,0
+staintu01,Tuck,Stainback,"Los Angeles",0,0
+reardph01,Phil,Reardon,Brooklyn,0,0
+nichodo02,Dolan,Nichols,Tishomingo,0,0
+moserwa01,Walter,Moser,Concord,0,0
+lillage01,Gene,Lillard,"Santa Barbara",0,0
+lambecl01,Clayton,Lambert,Summit,0,0
+hyzduad01,Adam,Hyzdu,"San Jose",0,0
+gedneco01,Count,Gedney,Brooklyn,0,0
+foutzda01,Dave,Foutz,"Carroll County",0,0
+coreybr01,Bryan,Corey,"Thousand Oaks",0,0
+clarkte01,Terry,Clark,"Los Angeles",0,0
+behneme01,Mel,Behney,Newark,0,0
+bakerge02,Gene,Baker,Davenport,0,0
+snellch02,Chris,Snelling,"North Miami",0,0
+stoneto01,Tobi,Stoner,Landstuhl,0,0
+vitkojo01,Joe,Vitko,Somerville,0,0
+summech01,Champ,Summers,Bremerton,0,0
+salvoma01,Manny,Salvo,Sacramento,0,0
+robincr01,Craig,Robinson,Abington,0,0
+perraro01,Ron,Perranoski,Paterson,0,0
+osterbi01,Bill,Oster,"New York",0,0
+matoslu01,Luis,Matos,Bayamon,0,0
+mackape01,Pete,Mackanin,Chicago,0,0
+jonesre01,Red,Jones,Timpson,0,0
+hallto01,Tom,Hall,Thomasville,0,0
+grafflo01,Louis,Graff,Philadelphia,0,0
+dickera01,R.A.,Dickey,Nashville,0,0
+daleyjo01,John,Daley,Pittsburgh,0,0
+brackgi01,Gibby,Brack,Chicago,0,0
+bigbila01,Larry,Bigbie,Hobart,0,0
+willida07,Dave,Williams,Anchorage,0,0
+wrighru01,Russ,Wrightstone,Bowmansdale,0,0
+buchhta01,Taylor,Buchholz,"Lower Merion",0,0
+ramiral03,Alexei,Ramirez,"Pinar del Rio",0,0
+thurmmi01,Mike,Thurman,Corvallis,0,0
+slatoji01,Jim,Slaton,"Long Beach",0,0
+seibeku01,Kurt,Seibert,Cheverly,0,0
+prichbo01,Bob,Prichard,Paris,0,0
+millejo02,Joe,Miller,Baltimore,0,0
+mckeiti01,Tim,McKeithan,Shelby,0,0
+cordoma01,Marty,Cordova,"Las Vegas",0,0
+kimeha01,Hal,Kime,"West Salem",0,0
+hoffmhi01,William,Hoffman,Cleveland,0,0
+heganji01,Jim,Hegan,Lynn,0,0
+fanweha01,Harry,Fanwell,Patapsco,0,0
+dwyerdo01,"Double Joe",Dwyer,Orange,0,0
+carlsda01,Dan,Carlson,Portland,0,0
+buddido01,Don,Buddin,Turbeville,0,0
+alexawa01,Walt,Alexander,Atlanta,0,0
+washbgr01,Greg,Washburn,"Coal City",0,0
+matsuka01,Kazuo,Matsui,Osaka,0,0
+stahlja01,Jake,Stahl,Elkhart,0,0
+reagari01,Rip,Ragan,Lincoln,0,0
+nichoar01,Art,Nichols,Manchester,0,0
+morynwa01,Walt,Moryn,"St. Paul",0,0
+liefeje01,Jeff,Liefer,Fontana,0,0
+lambjo01,John,Lamb,Sharon,0,0
+hydedi01,Dick,Hyde,Hindsboro,0,0
+geddeji01,Jim,Geddes,Columbus,0,0
+foucast01,Steve,Foucault,Duluth,0,0
+corcoti01,Tim,Corcoran,Glendale,0,0
+clarkri01,Rickey,Clark,"Mount Clemens",0,0
+begleji01,Jim,Begley,"San Francisco",0,0
+bakerfl01,Floyd,Baker,Luray,0,0
+stephjo03,John,Stephens,Sydney,0,0
+violape01,Pedro,Viola,"San Juan de la Maguna",0,0
+virtuja01,Jake,Virtue,Philadelphia,0,0
+sullito01,Tom,Sullivan,"New York",0,0
+salmoro01,Roger,Salmon,Newark,0,0
+robinbi01,Bill,Robinson,"Spencer County",0,0
+perlmjo01,Jon,Perlman,Dallas,0,0
+osteech01,Champ,Osteen,Hendersonville,0,0
+mathiro01,Ron,Mathis,"Kansas City",0,0
+mackra01,Ray,Mack,Cleveland,0,0
+jonesni01,Nippy,Jones,"Los Angeles",0,0
+hallma01,Marc,Hall,Joplin,0,0
+gradyjo01,John,Grady,Lowell,0,0
+dickebu01,Buttercup,Dickerson,Tyaskin,0,0
+dalenpe01,Pete,Dalena,Fresno,0,0
+boyleji01,Jim,Boyle,Cincinnati,0,0
+biermch01,Charlie,Bierman,Hoboken,0,0
+willidi01,Dib,Williams,Greenbrier,0,0
+wunscke01,Kelly,Wunsch,Houston,0,0
+ishiktr01,Travis,Ishikawa,Seattle,0,0
+washiri01,Rico,Washington,Milledgeville,0,0
+throoge01,George,Throop,Pasadena,0,0
+slagljo01,John,Slagle,NULL,0,0
+seguida01,David,Segui,"Kansas City",0,0
+priceja01,Jackie,Price,Winborn,0,0
+milleja01,Jake,Miller,Baltimore,0,0
+mckeere01,Red,McKee,Shawnee,0,0
+hentgpa01,Pat,Hentgen,Detroit,0,0
+kimbane01,Newt,Kimball,Logan,0,0
+hoffmdu01,Dutch,Hoffman,Freeburg,0,0
+heffnbo01,Bob,Heffner,Allentown,0,0
+fanniji01,Jim,Fanning,Chicago,0,0
+dustabo01,Bob,Dustal,Sayreville,0,0
+carliwa01,Walter,Carlisle,Yorkshire,0,0
+bucknbi01,Bill,Buckner,Vallejo,0,0
+alexahu01,Hugh,Alexander,Buffalo,0,0
+washebu01,Buck,Washer,Akron,0,0
+francje01,Jeff,Francis,Vancouver,0,0
+staffhe01,Heinie,Stafford,Orleans,0,0
+raziaba01,Barry,Raziano,"New Orleans",0,0
+nichosa01,Sam,Nichol,"County Antrim",0,0
+mortogu01,Guy,Morton,Vernon,0,0
+liebedu01,Dutch,Lieber,Alameda,0,0
+lamanfr01,Frank,Lamanske,Oglesby,0,0
+huttoji01,Jim,Hutto,Norfolk,0,0
+gearybo01,Bob,Geary,Cincinnati,0,0
+fostero01,Roy,Foster,Bixby,0,0
+corcojo01,John,Corcoran,Cincinnati,0,0
+clarkot01,Otey,Clark,Boscobel,0,0
+beerscl01,Clarence,Beers,ElDorado,0,0
+bakerda01,Dave,Baker,Lacona,0,0
+tankede01,Dennis,Tankersley,Troy,0,0
+hughedu01,Dusty,Hughes,Tupelo,0,0
+vintobi01,Bill,Vinton,Winthrop,0,0
+sullisc01,Scott,Sullivan,Tuscaloosa,0,0
+salkebi01,Bill,Salkeld,Pocatello,0,0
+roberri01,Rich,Robertson,Albany,0,0
+perkicy01,Cy,Perkins,Gloucester,0,0
+osgooch01,Charlie,Osgood,Somerville,0,0
+mathetj01,T.J.,Mathews,Belleville,0,0
+mackea01,Earle,Mack,Spencer,0,0
+jonesma01,Mack,Jones,Atlanta,0,0
+hallji01,Jim,Hall,NULL,0,0
+graceea01,Earl,Grace,Barlow,0,0
+diazmi01,Mike,Diaz,"San Francisco",0,0
+daisege01,George,Daisey,Gloucester,0,0
+boyleed01,Eddie,Boyle,Cincinnati,0,0
+bielemi01,Mike,Bielecki,Baltimore,0,0
+williea01,Earl,Williams,"Cumberland Gap",0,0
+wyattwh01,Whit,Wyatt,Kensington,0,0
+lugoru01,Ruddy,Lugo,Barahona,0,0
+troncra01,Ramon,Troncoso,"San Jose de Ocoa",0,0
+thorpji01,Jim,Thorpe,Prague,0,0
+sladego01,Gordon,Slade,"Salt Lake City",0,0
+seeryem01,Emmett,Seery,Princeville,0,0
+preslji01,Jim,Presley,Pensacola,0,0
+millege01,George,Miller,Newport,0,0
+mckeaed01,Ed,McKean,Grafton,0,0
+hollato01,Todd,Hollandsworth,Dayton,0,0
+kilromi01,Mike,Kilroy,Philadelphia,0,0
+hoffebi01,Bill,Hoffer,"Cedar Rapids",0,0
+hedgpha01,Harry,Hedgpeth,Fayetteville,0,0
+faltest01,Steve,Falteisek,Mineola,0,0
+durstce01,Cedric,Durst,Austin,0,0
+carlfr01,Fred,Carl,Baltimore,0,0
+bucklje01,Jess,Buckles,Lordsburg,0,0
+alexada01,Dale,Alexander,Greeneville,0,0
+washila01,"La Rue",Washington,"Long Beach",0,0
+szumija01,Jason,Szuminski,"San Diego",0,0
+staehma01,Marv,Staehle,"Oak Park",0,0
+raymobu01,Bugs,Raymond,Chicago,0,0
+newsosk01,Skeeter,Newsome,"Phenix City",0,0
+morsebu01,Bud,Morse,Berkeley,0,0
+lickejo01,John,Lickert,Pittsburgh,0,0
+lamabja01,Jack,Lamabe,Farmingdale,0,0
+hutchir01,Ira,Hutchinson,Chicago,0,0
+gazelmi01,Mike,Gazella,Olyphant,0,0
+fostela01,Larry,Foster,Lansing,0,0
+corbira01,Ray,Corbin,"Live Oak",0,0
+clarkji03,Jim,Clark,"Kansas City",0,0
+beechro01,Roy,Beecher,Swanton,0,0
+bakerbi01,Bill,Baker,"Paw Creek",0,0
+thurmco01,Corey,Thurman,Augusta,0,0
+vineyda01,Dave,Vineyard,Clay,0,0
+sullimi01,Mike,Sullivan,Webster,0,0
+salefr01,Freddy,Sale,Chester,0,0
+roberje01,Jerry,Robertson,Winchester,0,0
+perisma01,Matt,Perisho,Burlington,0,0
+osborfr01,Fred,Osborne,NULL,0,0
+mathebo01,Bobby,Mathews,Baltimore,0,0
+maciajo01,Jose,Macias,"Panama City",0,0
+jonesjo02,John,Jones,Coatesville,0,0
+halldr01,Drew,Hall,Louisville,0,0
+grabero01,Rod,Graber,Massillon,0,0
+diazed01,Edgar,Diaz,Santurce,0,0
+dailevi01,Vince,Dailey,Osceola,0,0
+boydra01,Ray,Boyd,Hortonville,0,0
+bickhda01,Dan,Bickham,Dayton,0,0
+willige03,George,Williams,LaCrosse,0,0
+wynegbu01,Butch,Wynegar,York,0,0
+mathisc01,Scott,Mathieson,Vancouver,0,0
+johnsel02,Elliot,Johnson,Safford,0,0
+radboch01,Charley,Radbourn,Rochester,0,0
+thornot01,Otis,Thornton,Docena,0,0
+skopejo01,John,Skopec,Chicago,0,0
+seedsbo01,Bob,Seeds,Ringgold,0,0
+prendmi01,Mike,Prendergast,Arlington,0,0
+milleel01,Elmer,Miller,Sandusky,0,0
+mckaiar01,Archie,McKain,Delphos,0,0
+blausje01,Jeff,Blauser,"Los Gatos",0,0
+killefr01,Frank,Killen,Pittsburgh,0,0
+hoernjo01,Joe,Hoerner,Dubuque,0,0
+heaveda01,Dave,Heaverlo,Ellensburg,0,0
+fallobo01,Bob,Fallon,Bronx,0,0
+durniri01,Rich,Durning,Louisville,0,0
+careyto01,Tom,Carey,Brooklyn,0,0
+bucheji01,Jim,Bucher,Manassas,0,0
+aldrico01,Cory,Aldridge,"San Angelo",0,0
+waslega01,Gary,Waslewski,Meriden,0,0
+clossjd01,J.D.,Closser,"Beech Grove",0,0
+stclara01,Randy,"St. Claire","Glens Falls",0,0
+rayla01,Larry,Ray,Madison,0,0
+newmara01,Ray,Newman,Evansville,0,0
+morrija01,Jack,Morrissey,Lansing,0,0
+lezcaca01,Carlos,Lezcano,Arecibo,0,0
+lakest01,Steve,Lake,Inglewood,0,0
+hutchjo02,Johnny,Hutchings,Chicago,0,0
+gautrdo01,Doc,Gautreau,Cambridge,0,0
+fosteed02,Eddie,Foster,Chicago,0,0
+corbege01,Gene,Corbett,Winona,0,0
+clarkje01,Jerald,Clark,Crockett,0,0
+beebefr01,Fred,Beebe,Lincoln,0,0
+bairddo01,Doug,Baird,"St. Charles",0,0
+trujijj01,J.J.,Trujillo,"Corpus Christi",0,0
+villahe01,Hector,Villanueva,"Rio Piedras",0,0
+sullijo07,John,Sullivan,Somerville,0,0
+sakatle01,Lenn,Sakata,Honolulu,0,0
+roberda01,Dave,Robertson,Portsmouth,0,0
+perezti01,Timo,Perez,Bani,0,0
+osborfr02,Fred,Osborn,Nevada,0,0
+matchto01,Tom,Matchick,Hazleton,0,0
+machaju01,Julio,Machado,"Santa Cruz del Zulia",0,0
+jonesje01,Jeff,Jones,Detroit,0,0
+hallch02,Charley,Hall,Ventura,0,0
+gowdyha01,Hank,Gowdy,Columbus,0,0
+diazbo01,Bo,Diaz,Cua,0,0
+dahlkje01,Jerry,Dahlke,Marathon,0,0
+boydga01,Gary,Boyd,Pasadena,0,0
+biancto01,Tommy,Bianco,"Rockville Centre",0,0
+williha01,Harry,Williams,Omaha,0,0
+wynnema01,Marvell,Wynne,Chicago,0,0
+garcijo01,Jose,Garcia,Dajabon,0,0
+cuetojo01,Johnny,Cueto,"San Pedro de Macoris",0,0
+gentrcr01,Craig,Gentry,"Fort Smith",0,0
+mathech01,Christy,Mathewson,Factoryville,0,0
+thormha01,Hank,Thormahlen,"Jersey City",0,0
+skinnca01,Camp,Skinner,Douglasville,0,0
+secrido01,Don,Secrist,Seattle,0,0
+prattto01,Tom,Pratt,Chelsea,0,0
+milleed01,Ed,Miller,NULL,0,0
+mcintfr01,Frank,McIntyre,"Walled Lake",0,0
+hitchst01,Sterling,Hitchcock,Fayetteville,0,0
+killeev01,Evans,Killeen,Brooklyn,0,0
+hodnech01,Charlie,Hodnett,NULL,0,0
+heathje02,Jeff,Heathcock,Covina,0,0
+falkch01,Chet,Falk,Austin,0,0
+durhajo01,John,Durham,Douglass,0,0
+careyma01,Max,Carey,"Terre Haute",0,0
+buchabo01,Bob,Buchanan,"Ridley Park",0,0
+alderda01,Dale,Alderson,Belden,0,0
+waterfr02,Fred,Waters,Benton,0,0
+olsonti01,Tim,Olson,"Grand Forks",0,0
+spurgfr01,Freddy,Spurgeon,Wabash,0,0
+rayfa01,Farmer,Ray,"Fort Lyon",0,0
+newmaal02,Alan,Newman,LaHabra,0,0
+morrimi01,Mike,Morrison,Erie,0,0
+lewissc01,Scott,Lewis,"Grants Pass",0,0
+lajesdi01,Dick,Lajeskie,Passaic,0,0
+hustibe01,Bert,Husting,"Fond Du Lac",0,0
+gatewau01,Aubrey,Gatewood,"Little Rock",0,0
+fossato01,Tony,Fossas,Havana,0,0
+coquitr01,Trace,Coquillette,Carmichael,0,0
+clarked01,Ed,Clark,NULL,0,0
+bedfoge01,Gene,Bedford,Dallas,0,0
+bainlo01,Loren,Bain,Staples,0,0
+wathadu01,Dusty,Wathan,Jacksonville,0,0
+vicketo01,Tom,Vickery,Milford,0,0
+sullijo02,John,Sullivan,NULL,0,0
+sagerpo01,Pony,Sager,Marshalltown,0,0
+roberan01,Andre,Robertson,Orange,0,0
+perezod01,Odalis,Perez,"Las Matas de Farfan",0,0
+ortonjo01,John,Orton,"Santa Cruz",0,0
+mastepa01,Paul,Masterson,Chicago,0,0
+macfada01,Danny,MacFayden,"North Truro",0,0
+jonesja02,"Jack (DA)",Jones,Litchfield,0,0
+hallbi01,Bill,Hall,Charleston,0,0
+gouldal01,Al,Gould,Muscatine,0,0
+dewilje01,Jeff,DeWillis,Houston,0,0
+dagrean01,Angelo,Dagres,Newburyport,0,0
+bowsfte01,Ted,Bowsfield,Vernon,0,0
+bevillo01,Lou,Bevil,Nelson,0,0
+williji03,Jimy,Williams,"Santa Maria",0,0
+yaikhe01,Henry,Yaik,Detroit,0,0
+verasjo01,Jose,Veras,"Santo Domingo",0,0
+yabutya01,Yasuhiko,Yabuta,Osaka,0,0
+tholejo01,Josh,Thole,Breese,0,0
+thompwi01,Will,Thompson,Pittsburgh,0,0
+skidmro01,Roe,Skidmore,Decatur,0,0
+sebrabo01,Bob,Sebra,Ridgewood,0,0
+prattde01,Del,Pratt,Walhalla,0,0
+milledo02,Dots,Miller,Kearny,0,0
+mcinnst01,Stuffy,McInnis,Gloucester,0,0
+easleda01,Damion,Easley,"New York",0,0
+kileyjo01,John,Kiley,Dedham,0,0
+hodgero01,Ron,Hodges,"Rocky Mount",0,0
+heathmi01,Mickey,Heath,Toledo,0,0
+fajarhe01,Hector,Fajardo,Sahuayo,0,0
+durhabu01,Bull,Durham,"New Oxford",0,0
+cardoja01,Javier,Cardona,Santurce,0,0
+bryest01,Steve,Brye,Alameda,0,0
+alcalsa01,Santo,Alcala,"San Pedro de Macoris",0,0
+watkida01,Dave,Watkins,Owensboro,0,0
+buckjo01,John,Buck,Kemmerer,0,0
+sprinjo01,Joe,Sprinz,"St. Louis",0,0
+rautzla01,Lance,Rautzhan,Pottsville,0,0
+newkifl01,Floyd,Newkirk,"Norris City",0,0
+morriha01,Hank,Morrison,Olneyville,0,0
+lewisjo01,Johnny,Lewis,Greenville,0,0
+laggeed01,Ed,Lagger,Joliet,0,0
+huskebu01,Butch,Huskey,Anadarko,0,0
+gastrha01,Hank,Gastright,Covington,0,0
+fortuga01,Gary,Fortune,"High Point",0,0
+coopewi01,Wilbur,Cooper,Bearsville,0,0
+clarkda03,Dad,Clark,"San Francisco",0,0
+beckmbi01,Bill,Beckmann,Clayton,0,0
+bailero01,Roger,Bailey,Chattahoochee,0,0
+wiggisc01,Scott,Wiggins,"Fort Thomas",0,0
+viaule01,Lee,Viau,Corinth,0,0
+sulliji01,Jim,Sullivan,Charlestown,0,0
+saenzol01,Olmedo,Saenz,Chitre,0,0
+roberra01,Ray,Roberts,Cruger,0,0
+perezge01,George,Perez,"San Fernando",0,0
+ortizju01,Junior,Ortiz,Humacao,0,0
+massemi01,Mike,Massey,Galveston,0,0
+macdomi01,Mike,MacDougal,"Las Vegas",0,0
+jonesha01,Hal,Jones,Louisiana,0,0
+haliced01,Ed,Halicki,Newark,0,0
+gossedi01,Dick,Gossett,Dennison,0,0
+devoral01,Al,DeVormer,"Grand Rapids",0,0
+daalom01,Omar,Daal,Maracaibo,0,0
+bowmajo01,Joe,Bowman,"Kansas City",0,0
+bevacku01,Kurt,Bevacqua,"Miami Beach",0,0
+willike02,Kenny,Williams,Berkeley,0,0
+yankoge01,George,Yankowski,Cambridge,0,0
+badenbu01,Burke,Badenhop,Atlanta,0,0
+stroppe01,Pedro,Strop,"San Cristobal",0,0
+thompti01,Tim,Thompson,Coalport,0,0
+skalsjo01,Joe,Skalski,Burnham,0,0
+searske01,Ken,Sears,Streator,0,0
+pozoar01,Arquimedez,Pozo,"Santo Domingo",0,0
+milleda02,Damian,Miller,LaCrosse,0,0
+mchenva01,Vance,McHenry,Chico,0,0
+caseyse01,Sean,Casey,Willingboro,0,0
+kienzbi01,Bill,Kienzle,Philadelphia,0,0
+hodgeed01,Ed,Hodge,Bellflower,0,0
+hearrje01,Jeff,Hearron,"Long Beach",0,0
+fairbji01,Jim,Fairbank,Deansboro,0,0
+durazer01,Erubiel,Durazo,Hermosillo,0,0
+carbobe01,Bernie,Carbo,Detroit,0,0
+bryando01,Don,Bryant,Jasper,0,0
+albosed01,Ed,Albosta,Saginaw,0,0
+watkisc01,Scott,Watkins,Tulsa,0,0
+proctsc01,Scott,Proctor,Stuart,0,0
+sprinde01,Dennis,Springer,Fresno,0,0
+raudo01,Doug,Rau,Columbus,0,0
+newelto01,Tom,Newell,Monrovia,0,0
+morriwa01,Walter,Morris,Rockwall,0,0
+lewisfr01,Fred,Lewis,Buffalo,0,0
+lafited01,Ed,Lafitte,"New Orleans",0,0
+hurstja01,James,Hurst,Plantation,0,0
+gastoal01,Alex,Gaston,"New York",0,0
+forstte01,Terry,Forster,"Sioux Falls",0,0
+coopegu01,Guy,Cooper,Rome,0,0
+clarkbo04,Bobby,Clark,Sacramento,0,0
+beckeri01,Rich,Becker,Aurora,0,0
+baileho01,Howard,Bailey,"Grand Haven",0,0
+fostero02,Robert,Foster,Philadelphia,0,0
+vernojo01,Joe,Vernon,Mansfield,0,0
+sullifr01,Frank,Sullivan,Hollywood,0,0
+sadowbo02,Bob,Sadowski,Pittsburgh,0,0
+roberda07,Dave,Roberts,Okinawa,0,0
+perduhu01,Hub,Perdue,Bethpage,0,0
+ortizhe01,Hector,Ortiz,"Rio Piedras",0,0
+masonmi01,Mike,Mason,Faribault,0,0
+maccofr01,Frank,MacCormack,"Jersey City",0,0
+jonesfi01,Fielder,Jones,Shinglehouse,0,0
+haleod01,Odell,Hale,Hosston,0,0
+goryljo01,Johnny,Goryl,Cumberland,0,0
+devliji02,Jim,Devlin,Troy,0,0
+czajkji01,Jim,Czajkowski,Parma,0,0
+bowmabo01,Bob,Bowman,Keystone,0,0
+betteje01,Jeff,Bettendorf,Lompoc,0,0
+willima01,Marsh,Williams,Faison,0,0
+yarriru01,Rube,Yarrison,Montgomery,0,0
+bowkejo01,John,Bowker,Sacramento,0,0
+gorecre01,Reid,Gorecki,Queens,0,0
+thompry01,Ryan,Thompson,Chestertown,0,0
+siwyji01,Jim,Siwy,"Central Falls",0,0
+seamaki01,Kim,Seaman,Pascagoula,0,0
+powerle01,Les,Powers,Seattle,0,0
+millech03,Charlie,Miller,Conestoga,0,0
+mchalji01,Jim,McHale,"Miners Mills",0,0
+kiefest01,Steve,Kiefer,Chicago,0,0
+hodapjo01,Johnny,Hodapp,Cincinnati,0,0
+hearned01,Ed,Hearne,Ventura,0,0
+fahrje01,Jerry,Fahr,Marmaduke,0,0
+dupeefr01,Frank,Dupee,Monkton,0,0
+caprora01,Ralph,Capron,Minneapolis,0,0
+bruyeed01,Ed,Bruyette,Manawa,0,0
+alberjo01,Jose,Alberro,"San Juan",0,0
+watsobo01,Bob,Watson,"Los Angeles",0,0
+bellhe01,Heath,Bell,Oceanside,0,0
+reyesjo02,Jose,Reyes,Barahona,0,0
+spratha01,Harry,Spratt,Broadford,0,0
+ratlige01,Gene,Ratliff,Macon,0,0
+nevinal01,Alexander,Nevin,"Allegheny City",0,0
+morrijo06,John,Morris,Lewes,0,0
+lewisbe01,Bert,Lewis,Tonawanda,0,0
+ladedo01,Doyle,Lade,Fairbury,0,0
+hurleje02,Jerry,Hurley,"New York",0,0
+gasparo01,Rod,Gaspar,"Long Beach",0,0
+formabi01,Bill,Forman,Venango,0,0
+coopecl01,Claude,Cooper,Troup,0,0
+claredo01,Doug,Clarey,"Los Angeles",0,0
+beckech01,Charlie,Becker,Washington,0,0
+baileed01,Ed,Bailey,"Strawberry Plains",0,0
+hoganed02,Ed,Hogan,NULL,0,0
+veresda01,Dave,Veres,Montgomery,0,0
+sullida01,Dan,Sullivan,Providence,0,0
+sadecra01,Ray,Sadecki,"Kansas City",0,0
+roberda04,Dale,Roberts,Owenton,0,0
+perazlu01,Luis,Peraza,"Rio Piedras",0,0
+ortegph01,Phil,Ortega,Gilbert,0,0
+masondo01,Don,Mason,Boston,0,0
+maaske01,Kevin,Maas,"Castro Valley",0,0
+jonesdi01,Dick,Jones,Meadville,0,0
+halech01,Chip,Hale,"San Jose",0,0
+gormato03,Tom,Gorman,Portland,0,0
+devinha01,Hal,Deviney,Newton,0,0
+cuyleki01,Kiki,Cuyler,Harrisville,0,0
+bowliwe01,Weldon,Bowlin,Paragould,0,0
+betemwi01,Wilson,Betemit,"Santo Domingo",0,0
+willimi02,Mitch,Williams,"Santa Ana",0,0
+yeabsbe01,Bert,Yeabsley,Philadelphia,0,0
+serraal01,Alex,Serrano,Barcelona,0,0
+avilaal01,Alex,Avila,Hialeah,0,0
+voisebi01,Bill,Voiselle,Greenwood,0,0
+thompma01,Mark,Thompson,Russellville,0,0
+sisledi01,Dick,Sisler,"St. Louis",0,0
+scuddsc01,Scott,Scudder,Paris,0,0
+powerdo01,Doc,Powers,Pittsfield,0,0
+millebo03,Bob,Miller,Berwyn,0,0
+mcguiry01,Ryan,McGuire,Bellflower,0,0
+kidama01,Masao,Kida,Tokyo,0,0
+hockech01,Chuck,Hockenbery,LaCrosse,0,0
+heardch01,Charlie,Heard,Philadelphia,0,0
+faginfr01,Fred,Fagin,NULL,0,0
+dunnist01,Steve,Dunning,Denver,0,0
+cappuge01,George,Cappuzzello,Youngstown,0,0
+brushbo01,Bob,Brush,Osage,0,0
+akersbi01,Bill,Akers,Chattanooga,0,0
+watsomi01,Milt,Watson,Flovilla,0,0
+phillpa01,Paul,Phillips,Demopolis,0,0
+huberjo01,Jon,Huber,Sacramento,0,0
+spragho01,Homer,Spragins,Grenada,0,0
+rathfr01,Fred,Rath,"Little Rock",0,0
+neugeni01,Nick,Neugebauer,Riverside,0,0
+morrie01,James,Morris,NULL,0,0
+lewalde01,Dennis,Lewallyn,Pensacola,0,0
+lacyke01,Kerry,Lacy,Chattanooga,0,0
+hurdto01,Tom,Hurd,Danville,0,0
+garvene01,Ned,Garver,Ney,0,0
+fordybr01,Brook,Fordyce,"New London",0,0
+coonejo01,Johnny,Cooney,Cranston,0,0
+clappaa01,Aaron,Clapp,Ithaca,0,0
+beckzi01,Zinn,Beck,Steubenville,0,0
+bailebi01,Bill,Bailey,"Fort Smith",0,0
+bondeje01,Jeremy,Bonderman,Kennewick,0,0
+verblge01,Gene,Verble,Concord,0,0
+sullibi03,Billy,Sullivan,Oakland,0,0
+sabeler01,Erik,Sabel,"West Lafayette",0,0
+robersi01,Sid,Roberson,Jacksonville,0,0
+peppedo01,Don,Pepper,"Saratoga Sprgs.",0,0
+orsinjo01,John,Orsino,Teaneck,0,0
+maskrha01,Harry,Maskrey,Mercer,0,0
+lystobi01,John,Lyston,"Near Baltimore",0,0
+jonesda01,Davy,Jones,Cambria,0,0
+halasge01,George,Halas,Chicago,0,0
+gormaho01,Howie,Gorman,Pittsburgh,0,0
+devench01,Charlie,Devens,Milton,0,0
+cusicto01,Tony,Cusick,Limerick,0,0
+bowlegr01,Grant,Bowler,Denver,0,0
+bestka01,Karl,Best,Aberdeen,0,0
+willipo01,Pop,Williams,Bowdoinham,0,0
+yeatmbi01,Bill,Yeatman,Alexandria,0,0
+burriem01,Emmanuel,Burriss,Washington,0,0
+nunezjh01,Jhonny,Nunez,"San Jose de las Matas",0,0
+pagejo01,Joe,Page,"Cherry Valley",0,0
+thompjo01,Jocko,Thompson,Beverly,0,0
+siscost01,Steve,Sisco,"Thousand Oaks",0,0
+scottto01,Tony,Scott,Cincinnati,0,0
+powelra01,Ray,Powell,"Siloam Springs",0,0
+millebi04,Bill,Miller,Minersville,0,0
+mcgui01,NULL,McGuire,NULL,0,0
+furcara01,Rafael,Furcal,"Loma de Cabrera",0,0
+keysebr01,Brian,Keyser,"Castro Valley",0,0
+hoblidi01,Dick,Hoblitzel,Waverly,0,0
+healyfr02,Fran,Healy,Holyoke,0,0
+faedole01,Lenny,Faedo,Tampa,0,0
+dunnst02,Steve,Dunn,Champaign,0,0
+cantwto01,Tom,Cantwell,Washington,0,0
+bruneju01,Justin,Brunette,"Los Alamitos",0,0
+aitonge01,George,Aiton,Kingman,0,0
+watted01,Eddie,Watt,Lamoni,0,0
+garcija01,Santiago,Casilla,Nizao,0,0
+burrebr01,Brian,Burres,"Oregon City",0,0
+spoonka01,Karl,Spooner,"Oriskany Falls",0,0
+raschvi01,Vic,Raschi,"West Springfield",0,0
+netzemi01,Milo,Netzel,Eldred,0,0
+morribu01,Bugs,Morris,"Weir City",0,0
+levisje01,Jesse,Levis,Philadelphia,0,0
+lacocpe01,Pete,LaCock,Burbank,0,0
+huntewi01,Willard,Hunter,Newark,0,0
+garrifo01,Ford,Garrison,Greenville,0,0
+fordte01,Ted,Ford,Vineland,0,0
+coonebi01,Bill,Cooney,Boston,0,0
+clancbu01,Bud,Clancy,Odell,0,0
+beckfr01,Frank,Beck,Poughkeepsie,0,0
+bahred01,Ed,Bahr,Rouleau,0,0
+reyesre01,Rene,Reyes,Margarita,0,0
+verasqu01,Quilvio,Veras,"Santo Domingo",0,0
+sulli01,NULL,Sullivan,NULL,0,0
+rybami01,Mike,Ryba,DeLancey,0,0
+robelto01,Tony,Robello,"San Leandro",0,0
+peoplji01,Jimmy,Peoples,"Big Beaver",0,0
+orrbi01,Billy,Orr,"San Francisco",0,0
+masaoon01,Onan,Masaoka,Hilo,0,0
+lyonste01,Ted,Lyons,"Lake Charles",0,0
+jonesco01,Cowboy,Jones,Golden,0,0
+haislji01,Jim,Haislip,Farmersville,0,0
+gorecri01,Rick,Gorecki,"Evergreen Park",0,0
+dettoto01,Tom,Dettore,Canonsburg,0,0
+curtrgu01,Guy,Curtright,Holliday,0,0
+bowerst01,Stew,Bowers,"New Freedom",0,0
+besanfr01,Fred,Besana,Lincoln,0,0
+williri02,Rinaldo,Williams,"Santa Cruz",0,0
+yelloch01,Chief,"Yellow Horse",Pawnee,0,0
+masteju01,Justin,Masterson,Kingston,0,0
+everito01,Tommy,Everidge,"Santa Rosa",0,0
+thompha01,Harry,Thompson,Nanticoke,0,0
+singtfr01,Fred,Sington,Birmingham,0,0
+scottmi01,Milt,Scott,Chicago,0,0
+powelji01,Jim,Powell,Richmond,0,0
+millafr01,Frank,Millard,"East St. Louis",0,0
+mcgrima01,Mark,McGrillis,Philadelphia,0,0
+ketchfr01,Fred,Ketchum,Elmira,0,0
+hobaued01,Ed,Hobaugh,Kittanning,0,0
+hazledo01,Doc,Hazleton,Strafford,0,0
+faberre01,Red,Faber,Cascade,0,0
+dunnji01,Jim,Dunn,Valdosta,0,0
+canseoz01,Ozzie,Canseco,Havana,0,0
+brunato01,Tom,Brunansky,Covina,0,0
+aingeda01,Danny,Ainge,Eugene,0,0
+waybo01,Bob,Way,Emlenton,0,0
+cabrefe01,Fernando,Cabrera,"Toja Baja",0,0
+hannaja01,Jack,Hannahan,"St. Paul",0,0
+spognan01,Andy,Spognardi,Boston,0,0
+rappea01,Earl,Rapp,Corunna,0,0
+nessja01,Jack,Ness,Chicago,0,0
+moronji01,Jim,Moroney,Boston,0,0
+leverho01,Hod,Leverette,Shreveport,0,0
+lachema01,Marcel,Lachemann,"Los Angeles",0,0
+hunteji01,Jim,Hunter,"Jersey City",0,0
+garrewa01,Wayne,Garrett,Brooksville,0,0
+fordge01,Gene,Ford,Milton,0,0
+coombda01,Danny,Coombs,Lincoln,0,0
+clackbo01,Bobby,Clack,NULL,0,0
+bechtge01,George,Bechtel,Philadelphia,0,0
+baezke01,Kevin,Baez,Brooklyn,0,0
+mendeca01,Carlos,Mendez,Caracas,0,0
+halljo03,Josh,Hall,Lynchburg,0,0
+venabma01,Max,Venable,Phoenix,0,0
+sukefcl01,Clyde,Sukeforth,Washington,0,0
+ryanmi02,Mike,Ryan,Haverhill,0,0
+roachsk01,Skel,Roach,Danzig,0,0
+pennybr01,Brad,Penny,Blackwell,0,0
+ormege01,George,Orme,Lebanon,0,0
+martybo01,Bob,Martyn,Weiser,0,0
+lyonsha01,Harry,Lyons,Chester,0,0
+jonesch05,Chris,Jones,Utica,0,0
+hairsje01,Jerry,Hairston,Birmingham,0,0
+gordoke01,Keith,Gordon,Bethesda,0,0
+destror01,Orestes,Destrade,"Santiago De Cuba",0,0
+curtiha01,Harry,Curtis,Portland,0,0
+bowerfr01,Frank,Bowerman,Romeo,0,0
+bertore01,Reno,Bertoia,"St. Vito Udine",0,0
+willist01,Steamboat,Williams,Cascade,0,0
+yettri01,Rich,Yett,Pomona,0,0
+wilsobo02,Bobby,Wilson,Dunedin,0,0
+torreca01,Carlos,Torres,"Santa Cruz",0,0
+mizejo01,Johnny,Mize,Demorest,0,0
+thompfr03,Fresco,Thompson,Centreville,0,0
+singlch01,Chris,Singleton,Martinez,0,0
+scottjo01,John,Scott,Jackson,0,0
+powelja02,Jack,Powell,Holcomb,0,0
+mileymi01,Mike,Miley,"Yazoo City",0,0
+mcgrato01,Tom,McGraw,Portland,0,0
+gonzalu01,Luis,Gonzalez,Tampa,0,0
+kerwida01,Dan,Kerwin,Philadelphia,0,0
+hittro01,Roy,Hitt,Carleton,0,0
+haywora01,Ray,Hayworth,"High Point",0,0
+eyresc01,Scott,Eyre,Inglewood,0,0
+dunleja01,Jack,Dunleavy,Harrison,0,0
+canneri01,Rip,Cannell,"South Bridgton",0,0
+brumlmi01,Mike,Brumley,Granite,0,0
+aguirha01,Hank,Aguirre,Azusa,0,0
+weathro01,Roy,Weatherly,Warren,0,0
+izturma01,Maicer,Izturis,Barquisimeto,0,0
