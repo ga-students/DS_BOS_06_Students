@@ -1,0 +1,123 @@
+1.
+SELECT 
+    a.playerID,
+    b.H / b.AB As battingAverage,
+    b.*
+FROM
+    baseball.AwardsPlayers a,
+    baseball.Batting b
+WHERE
+    a.playerID = b.playerID
+    AND a.yearID = b.yearID
+        AND a.awardID = 'Triple Crown'
+GROUP BY a.playerID
+ORDER BY battingAverage DESC , b.RBI DESC , b.HR DESC;
+
+2.
+SELECT 
+    f.POS,
+    count(f.POS) AS total
+
+FROM
+    baseball.AwardsPlayers a,
+    baseball.Fielding f
+WHERE
+	a.playerID = f.playerID
+    AND a.yearID = f.yearID
+	AND (a.awardID = 'MVP' OR a.awardID = 'Triple Crown')
+GROUP BY
+	f.POS
+ORDER BY total Desc;
+
+3.
+SELECT 
+    t.teamID,
+    count(t.teamID) AS total
+
+FROM
+    baseball.AwardsPlayers a,
+    baseball.Fielding f,
+    baseball.Teams t
+WHERE
+	a.playerID = f.playerID
+    AND a.yearID = f.yearID
+    AND f.yearID = t.yearID
+    AND f.teamID = t.teamID
+	AND (a.awardID = 'MVP' OR a.awardID = 'Triple Crown')
+GROUP BY
+	t.teamID
+ORDER BY total Desc;
+
+4. 
+SELECT 
+    f.POS,
+    avg(b.H / b.AB) As BattingAverage,
+    avg(b.RBI),
+    avg(b.HR)
+FROM
+    baseball.Fielding f,
+    baseball.Batting b
+WHERE
+	f.playerID = b.playerID
+    AND f.yearID = b.yearID
+    
+Group by f.POS
+
+Having Count(b.AB) > 300;
+
+5.
+SELECT gg.ggplayerID, gg.numYearsGGWon, mvp.numYearsMVPWon, m.*
+
+FROM
+
+(SELECT a.playerID AS ggPlayerID, COUNT(a.yearID) AS numYearsGGWon
+FROM baseball.awardsplayers a
+WHERE a.awardID = 'Gold Glove'
+GROUP BY a.playerID, a.awardID) gg 
+
+INNER JOIN
+
+(SELECT a.playerID AS mvpPlayerID,COUNT(a.yearID) AS numYearsMVPWon
+FROM baseball.awardsplayers a
+WHERE a.awardID = 'MVP'
+GROUP BY a.playerID, a.awardID) mvp
+
+ON gg.ggPlayerID = mvp.mvpPlayerID
+
+INNER JOIN
+
+baseball.master m
+
+ON
+
+gg.ggPlayerID = m.playerID
+
+6.
+SELECT t.teamID,
+	sum(t.WSWin) as totalWS,
+    sum(t.DivWin) as totalDiv,
+    sum(t.LgWin) as totalLg
+
+FROM baseball.Teams as t
+where
+	t.WSWin = 'Y'
+or t.DivWin = 'Y'
+or t.LgWIn = 'Y'
+
+group by t.teamID;
+
+7. 
+SELECT s.playerID,
+	s.salary,
+    a.awardID,
+    avg(s.salary) as average
+    
+FROM baseball.Salaries as s
+join
+	baseball.AwardsPlayers as a
+on s.playerID = a.playerID
+where a.awardID = 'MVP';
+
+8.
+INSERT INTO baseball.Batting (Year,Age,Tm,Lg,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,OPS+,TB,GDP,HBP,SH,SF,IBB,Pos,Awards)
+VALUES (2012 ★,29,DET,AL,161,697,622,109,205,40,0,44,139,4,1,66,98,.330,.393,.606,.999,164,377,28,3,0,6,17,*5/D3,ASMVP-1SS)
