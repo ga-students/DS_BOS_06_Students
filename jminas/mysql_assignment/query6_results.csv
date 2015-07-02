@@ -1,0 +1,150 @@
+teamID,name,WorldSeries,Division,League
+NYA,"New York Highlanders",27,16,40
+SLN,"St. Louis Browns",10,10,17
+BOS,"Boston Americans",7,6,12
+NY1,"New York Gothams",7,0,17
+LAN,"Los Angeles Dodgers",5,11,9
+PIT,"Pittsburg Alleghenys",5,9,9
+CIN,"Cincinnati Reds",5,8,9
+PHA,"Philadelphia Athletics",5,0,9
+OAK,"Oakland Athletics",4,14,6
+DET,"Detroit Tigers",4,3,10
+BAL,"Baltimore Orioles",3,8,6
+CHA,"Chicago White Sox",3,5,6
+PHI,"Philadelphia Quakers",2,10,7
+MIN,"Minnesota Twins",2,9,3
+CLE,"Cleveland Blues",2,7,5
+CHN,"Chicago White Stockings",2,5,16
+NYN,"New York Mets",2,5,4
+TOR,"Toronto Blue Jays",2,5,2
+FLO,"Florida Marlins",2,0,2
+ATL,"Atlanta Braves",1,16,5
+KCA,"Kansas City Royals",1,7,2
+ARI,"Arizona Diamondbacks",1,4,1
+ANA,"Anaheim Angels",1,1,1
+BRO,"Brooklyn Bridegrooms",1,0,12
+BSN,"Boston Red Caps",1,0,10
+SL4,"St. Louis Brown Stockings",1,0,4
+WS1,"Washington Senators",1,0,3
+PRO,"Providence Grays",1,0,2
+ML1,"Milwaukee Braves",1,0,2
+DTN,"Detroit Wolverines",1,0,1
+HOU,"Houston Colt .45's",0,7,1
+SFN,"San Francisco Giants",0,6,3
+SDN,"San Diego Padres",0,5,2
+LAA,"Los Angeles Angels",0,4,0
+SEA,"Seattle Mariners",0,3,0
+CAL,"California Angels",0,3,0
+TEX,"Texas Rangers",0,3,0
+ML4,"Milwaukee Brewers",0,2,1
+TBA,"Tampa Bay Devil Rays",0,1,1
+MON,"Montreal Expos",0,1,0
+BS1,"Boston Red Stockings",0,0,4
+BLN,"Baltimore Orioles",0,0,3
+CN2,"Cincinnati Red Stockings",0,0,1
+IND,"Indianapolis Hoosiers",0,0,1
+NY4,"New York Metropolitans",0,0,1
+SLU,"St. Louis Maroons",0,0,1
+PH1,"Philadelphia Athletics",0,0,1
+LS2,"Louisville Eclipse",0,0,1
+BR3,"Brooklyn Atlantics",0,0,1
+BSP,"Boston Reds",0,0,1
+CHF,"Chicago Chi-Feds",0,0,1
+PH4,"Philadelphia Athletics",0,0,1
+BS2,"Boston Reds",0,0,1
+SLA,"St. Louis Browns",0,0,1
+COL,"Colorado Rockies",0,0,1
+NY2,"New York Mutuals",0,0,0
+MID,"Middletown Mansfields",0,0,0
+KEO,"Keokuk Westerns",0,0,0
+CN1,"Cincinnati Reds",0,0,0
+BSU,"Boston Reds",0,0,0
+WIL,"Wilmington Quicksteps",0,0,0
+KC2,"Kansas City Cowboys",0,0,0
+PHP,"Philadelphia Athletics",0,0,0
+WAS,"Washington Nationals",0,0,0
+TRO,"Troy Haymakers",0,0,0
+ELI,"Elizabeth Resolutes",0,0,0
+SL1,"St. Louis Red Stockings",0,0,0
+NY3,"New York Mutuals",0,0,0
+SR1,"Syracuse Stars",0,0,0
+PT1,"Pittsburg Alleghenys",0,0,0
+RIC,"Richmond Virginians",0,0,0
+KCU,"Kansas City Cowboys",0,0,0
+KCN,"Kansas City Cowboys",0,0,0
+BL3,"Baltimore Orioles",0,0,0
+BRP,"Brooklyn Ward's Wonders",0,0,0
+CN3,"Cincinnati Kelly's Killers",0,0,0
+SLF,"St. Louis Terriers",0,0,0
+SE1,"Seattle Pilots",0,0,0
+CL1,"Cleveland Forest Citys",0,0,0
+BR1,"Brooklyn Eckfords",0,0,0
+CH2,"Chicago White Stockings",0,0,0
+IN1,"Indianapolis Blues",0,0,0
+ALT,"Altoona Mountain City",0,0,0
+IN3,"Indianapolis Hoosiers",0,0,0
+SR2,"Syracuse Stars",0,0,0
+CLP,"Cleveland Infants",0,0,0
+BUF,"Buffalo Buffeds",0,0,0
+WS4,"Washington Nationals",0,0,0
+NH1,"New Haven Elm Citys",0,0,0
+HAR,"Hartford Dark Blues",0,0,0
+BFN,"Buffalo Bisons",0,0,0
+CHU,"Chicago/Pittsburgh (Union League)",0,0,0
+WSU,"Washington Nationals",0,0,0
+CL6,"Columbus Solons",0,0,0
+PTP,"Pittsburgh Burghers",0,0,0
+WSN,"Washington Senators",0,0,0
+KCF,"Kansas City Packers",0,0,0
+WS3,"Washington Olympics",0,0,0
+PH2,"Philadelphia Whites",0,0,0
+SL2,"St. Louis Brown Stockings",0,0,0
+PHN,"Philadelphia Athletics",0,0,0
+TRN,"Troy Trojans",0,0,0
+TL1,"Toledo Blue Stockings",0,0,0
+MLU,"Milwaukee Brewers",0,0,0
+WS8,"Washington Nationals",0,0,0
+BR4,"Brooklyn Gladiators",0,0,0
+ML3,"Milwaukee Brewers",0,0,0
+BLF,"Baltimore Terrapins",0,0,0
+NEW,"Newark Pepper",0,0,0
+WS2,"Washington Senators",0,0,0
+FW1,"Fort Wayne Kekiongas",0,0,0
+BR2,"Brooklyn Atlantics",0,0,0
+HR1,"Hartford Dark Blues",0,0,0
+ML2,"Milwaukee Grays",0,0,0
+BL2,"Baltimore Orioles",0,0,0
+BLU,"Baltimore Monumentals",0,0,0
+SPU,"St. Paul White Caps",0,0,0
+TL2,"Toledo Maumees",0,0,0
+NYP,"New York Giants",0,0,0
+LS3,"Louisville Colonels",0,0,0
+MLA,"Milwaukee Brewers",0,0,0
+KC1,"Kansas City Athletics",0,0,0
+MIL,"Milwaukee Brewers",0,0,0
+RC1,"Rockford Forest Citys",0,0,0
+BL4,"Baltimore Marylands",0,0,0
+PH3,"Philadelphia Centennials",0,0,0
+LS1,"Louisville Grays",0,0,0
+CL2,"Cleveland Blues",0,0,0
+IN2,"Indianapolis Hoosiers",0,0,0
+CNU,"Cincinnati Outlaw Reds",0,0,0
+SL5,"St. Louis Maroons",0,0,0
+CL4,"Cleveland Spiders",0,0,0
+BFP,"Buffalo Bisons",0,0,0
+BLA,"Baltimore Orioles",0,0,0
+PTF,"Pittsburgh Rebels",0,0,0
+CH1,"Chicago White Stockings",0,0,0
+BL1,"Baltimore Canaries",0,0,0
+WS5,"Washington Blue Legs",0,0,0
+WS6,"Washington Nationals",0,0,0
+SL3,"St. Louis Brown Stockings",0,0,0
+WOR,"Worcester Ruby Legs",0,0,0
+CL5,"Columbus Buckeyes",0,0,0
+WS7,"Washington Nationals",0,0,0
+PHU,"Philadelphia Keystones",0,0,0
+CL3,"Cleveland Blues",0,0,0
+RC2,"Rochester Broncos",0,0,0
+CHP,"Chicago Pirates",0,0,0
+WS9,"Washington Statesmen",0,0,0
+BRF,"Brooklyn Tip-Tops",0,0,0
