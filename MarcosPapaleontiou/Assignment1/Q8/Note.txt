@@ -1,0 +1,3 @@
+I added Miguel Cabrera's Batting stats as well as the Triple Crown award he got in 2012. I'm sure there are more
+tables that need to be updated but since I'm not familiar with baseball at all I'll stick to the two tables I've updated.
+I believe I have a good grasp of how the INSERT clause/statement works.
