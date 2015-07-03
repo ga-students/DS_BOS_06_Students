@@ -1,0 +1,182 @@
+1.
+SELECT a.playerID, a.yearID, a.awardID, (b.H / b.AB) AS batAVG, b.RBI, b.HR
+FROM awardsplayers a, batting b
+WHERE a.awardID = "Triple Crown" AND a.yearID = b.yearID AND a.playerID = b.playerID
+GROUP BY a.playerID, a.yearID
+ORDER BY batAVG DESC, b.RBI DESC, b.HR DESC;
+
+playerID	yearID	awardID	batAVG	RBI	HR
+clemero02	1997	Triple Crown	0.5	0	0
+duffyhu01	1894	Triple Crown	0.4397	145	18
+oneilti01	1887	Triple Crown	0.4352	123	14
+lajoina01	1901	Triple Crown	0.4265	125	14
+hornsro01	1925	Triple Crown	0.4028	143	39
+hornsro01	1922	Triple Crown	0.4013	152	42
+cobbty01	1909	Triple Crown	0.377	107	9
+medwijo01	1937	Triple Crown	0.3744	154	31
+kleinch01	1933	Triple Crown	0.368	120	28
+gehrilo01	1934	Triple Crown	0.3627	165	49
+hinespa01	1878	Triple Crown	0.358	50	4
+
+2.
+SELECT fs.POS AS 'Position', a.awardID AS 'Award', count(a.playerID) AS 'Number of Players'
+#need to account for fact that a player could hold multiple positions in a winning year. Use the position they played most that year
+FROM awardsplayers a INNER JOIN(select f.playerID, f.yearID, f.POS FROM fielding f INNER JOIN(select playerID, yearID, MAX(G) AS maxGames FROM fielding GROUP BY playerID, yearID) ft ON f.playerID = ft.playerID and f.yearID = ft.yearID AND f.G = ft.maxGames GROUP BY playerID, yearID) fs ON a.playerID = fs.playerID AND a.yearID = fs.yearID
+WHERE (a.awardID = 'MVP' OR a.awardID = 'Triple Crown')
+GROUP BY fs.POS, a.awardID;
+
+Position	Award	Number of Players
+1B	MVP	33
+1B	Triple Crown	2
+2B	MVP	15
+2B	Triple Crown	3
+3B	MVP	15
+C	MVP	17
+CF	MVP	2
+LF	MVP	6
+OF	MVP	49
+OF	Triple Crown	11
+P	MVP	23
+P	Triple Crown	36
+RF	MVP	4
+SS	MVP	16
+
+3.
+SELECT t.name AS 'Team Name', a.awardID AS 'Award', count(a.playerID) AS 'Number of Award Winners'
+FROM teams t, awardsplayers a INNER JOIN(select f.playerID, f.yearID, f.teamID, f.POS FROM fielding f INNER JOIN(select playerID, yearID, MAX(G) AS maxGames FROM fielding GROUP BY playerID, yearID) ft ON f.playerID = ft.playerID and f.yearID = ft.yearID AND f.G = ft.maxGames GROUP BY playerID, yearID) fs ON a.playerID = fs.playerID AND a.yearID = fs.yearID
+WHERE (a.awardID = 'MVP' OR a.awardID = 'Triple Crown') AND t.teamID = fs.teamID AND t.yearID = a.yearID
+GROUP BY t.name, a.awardID;
+
+Team Name	Award	Number of Award Winners
+Anaheim Angels	MVP	1
+Arizona Diamondbacks	Triple Crown	1
+Atlanta Braves	MVP	4
+Baltimore Orioles	MVP	5
+Baltimore Orioles	Triple Crown	1
+Boston Americans	Triple Crown	1
+Boston Beaneaters	Triple Crown	2
+Boston Braves	MVP	2
+Boston Red Caps	Triple Crown	1
+Boston Red Sox	MVP	11
+Boston Red Sox	Triple Crown	4
+Brooklyn Dodgers	MVP	6
+Brooklyn Robins	MVP	1
+Brooklyn Robins	Triple Crown	1
+Brooklyn Superbas	MVP	1
+California Angels	MVP	1
+Chicago Cubs	MVP	10
+Chicago Cubs	Triple Crown	2
+Chicago White Sox	MVP	4
+Cincinnati Reds	MVP	11
+Cincinnati Reds	Triple Crown	1
+Cleveland Indians	MVP	3
+Cleveland Indians	Triple Crown	1
+Colorado Rockies	MVP	1
+Detroit Tigers	MVP	9
+...
+
+4.
+SELECT f.POS AS 'Position', AVG(b.H / b.AB) AS 'totBatAVG', AVG(b.RBI) AS 'avgRBI', AVG(b.HR) AS 'avgHR'
+FROM fielding f, batting b
+WHERE f.playerID = b.playerID AND f.yearID = b.yearID AND b.AB >= 300
+GROUP BY f.POS;
+
+Position	totBatAVG	avgRBI	avgHR
+1B	0.279567	67.2303	12.632
+2B	0.26925809	50.0935	5.9361
+3B	0.27036688	56.9813	8.9699
+C	0.26802449	53.6748	8.8219
+CF	0.27331036	57.7944	13.1307
+DH	0.2762501	68.4758	16.7635
+LF	0.27413082	60.7421	14.4336
+OF	0.2802875	61.1392	11.1036
+P	0.2769331	54.9808	4.972
+RF	0.27413477	63.0495	15.139
+SS	0.26506137	50.9378	6.067
+
+5.
+SELECT combAwards.numYearsGGWon, combAwards.numYearsMVPWon, m.*
+
+FROM
+
+(SELECT gg.ggplayerID, gg.numYearsGGWon, mvp.numYearsMVPWon
+
+FROM
+
+(SELECT a.playerID AS ggPlayerID, COUNT(a.yearID) AS numYearsGGWon
+FROM awardsplayers a
+WHERE a.awardID = 'Gold Glove'
+GROUP BY a.playerID, a.awardID) gg 
+
+INNER JOIN
+
+(SELECT a.playerID AS mvpPlayerID,COUNT(a.yearID) AS numYearsMVPWon
+FROM awardsplayers a
+WHERE a.awardID = 'MVP'
+GROUP BY a.playerID, a.awardID) mvp
+
+ON gg.ggPlayerID = mvp.mvpPlayerID) combAwards
+
+INNER JOIN master m
+
+ON m.playerID = combAwards.ggPlayerID;
+
+numYearsGGWon	numYearsMVPWon	lahmanID	playerID	managerID	hofID	birthYear	birthMonth	birthDay	birthCountry	birthState	birthCity	deathYear	deathMonth	deathDay	deathCountry	deathState	deathCity	nameFirst	nameLast	nameNote	nameGiven	nameNick	weight	height	bats	throws	debut	finalGame	college	lahman40ID	lahman45ID	retroID	holtzID	bbrefID
+3	1	1	aaronha01		aaronha01h	1934	2	5	USA	AL	Mobile	NULL	NULL	NULL	NULL	NULL	NULL	Hank	Aaron	NULL	Henry Louis	Hammer,Hammerin' Hank,Bad Henry	180	72	R	R	4/13/1954	10/3/1976		aaronha01	aaronha01	aaroh101	aaronha01	aaronha01
+1	1	465	bagweje01			1968	5	27	USA	MA	Boston	NULL	NULL	NULL	NULL	NULL	NULL	Jeff	Bagwell	NULL	Jeffrey Robert	BagPipes	195	72	R	R	4/8/1991	10/2/2005	Hartford	bagweje01	bagweje01	bagwj001	bagweje01	bagweje01
+1	2	571	bankser01		bankser01h	1931	1	31	USA	TX	Dallas	NULL	NULL	NULL	NULL	NULL	NULL	Ernie	Banks	NULL	Ernest	Mr. Cub	180	73	R	R	9/17/1953	9/26/1971		bankser01	bankser01	banke101	bankser01	bankser01
+10	2	912	benchjo01		benchjo01h	1947	12	7	USA	OK	Oklahoma City	NULL	NULL	NULL	NULL	NULL	NULL	Johnny	Bench	NULL	Johnny Lee	Little General	208	73	R	R	8/28/1967	9/29/1983		benchjo01	benchjo01	bencj101	benchjo01	benchjo01
+8	7	1274	bondsba01			1964	7	24	USA	CA	Riverside	NULL	NULL	NULL	NULL	NULL	NULL	Barry	Bonds	NULL	Barry Lamar	NULL	228	73	L	L	5/30/1986	9/26/2007	Arizona State	bondsba01	bondsba01	bondb001	bondsba01	bondsba01
+5	1	1411	boyerke01	boyerke01m	boyerke01h	1931	5	20	USA	MO	Liberty	1982	9	7	USA	MO	St.Louis	Ken	Boyer	NULL	Kenton Lloyd	NULL	200	74	R	R	4/12/1955	8/9/1969		boyerke01	boyerke01	boyek101	boyerke01	boyerke01
+1	1	1532	brettge01		brettge01h	1953	5	15	USA	WV	Glen Dale	NULL	NULL	NULL	NULL	NULL	NULL	George	Brett	NULL	George Howard	Mullet	200	72	L	R	8/2/1973	10/3/1993	El Camino JC	brettge01	brettge01	bretg001	brettge01	brettge01
+3	1	2035	caminke01		caminke01h	1963	4	21	USA	CA	Hanford	2004	10	10	USA	NY	New York	Ken	Caminiti	NULL	Kenneth Gene	NULL	200	72	B	R	7/16/1987	10/7/2001	San Jose State	caminke01	caminke01	camik001	caminke01	caminke01
+12	1	2553	clemero01		clemero01h	1934	8	18	P.R.		Carolina	1972	12	31	in a plane crash at sea		NULL	Roberto	Clemente	NULL	Roberto (Walker)	Arriba, Bob	175	71	R	R	4/17/1955	10/3/1972		clemero01	clemero01	clemr101	clemero01	clemero01
+8	1	3367	dawsoan01		dawsoan01h	1954	7	10	USA	FL	Miami	NULL	NULL	NULL	NULL	NULL	NULL	Andre	Dawson	NULL	Andre Nolan	Hawk	195	75	R	R	9/11/1976	9/29/1996	Florida A&M	dawsoan01	dawsoan01	dawsa001	dawsoan01	dawsoan01
+3	1	4653	foxne01		foxne01h	1927	12	25	USA	PA	St. Thomas	1975	12	1	USA	MD	Baltimore	Nellie	Fox	NULL	Jacob Nelson	NULL	150	69	L	R	6/8/1947	7/25/1965		foxne01	foxne01	fox-n101	foxne01	foxne01
+4	1	4957	garvest01		garvest01h	1948	12	22	USA	FL	Tampa	NULL	NULL	NULL	NULL	NULL	NULL	Steve	Garvey	NULL	Steven Patrick	NULL	192	70	R	R	9/1/1969	5/23/1987	Michigan State	garvest01	garvest01	garvs001	garvest01	garvest01
+9	1	5066	gibsobo01		gibsobo01h	1935	11	9	USA	NE	Omaha	NULL	NULL	NULL	NULL	NULL	NULL	Bob	Gibson	born Pack Robert Gibson	Robert	Hoot,Gibby	195	73	R	R	4/15/1959	9/3/1975		gibsobo01	gibsobo01	gibsb101	gibsobo01	gibsobo01
+...
+
+6.
+SELECT teamID, 
+	SUM(IF(DivWin = 'Y', 1, 0)) AS 'Division Titles', 
+	SUM(IF(WSWin = 'Y', 1, 0)) AS 'World Series Wins', 
+	SUM(IF(LgWin = 'Y', 1, 0)) AS 'League Championships'
+FROM teams
+GROUP BY teamID
+
+teamID	Division Titles	World Series Wins	League Championships
+ALT	0	0	0
+ANA	1	1	1
+ARI	4	1	1
+ATL	16	1	5
+BAL	8	3	6
+BFN	0	0	0
+BFP	0	0	0
+BL1	0	0	0
+BL2	0	0	0
+BL3	0	0	0
+BL4	0	0	0
+BLA	0	0	0
+BLF	0	0	0
+BLN	0	0	3
+BLU	0	0	0
+BOS	6	7	12
+BR1	0	0	0
+...
+
+7. 
+Select AVG(s.salary)
+
+FROM salaries s, 
+
+(Select a.playerID, a.awardID
+FROM awardsplayers a
+WHERE a.awardID = 'MVP') m
+
+WHERE m.playerID = s.playerID
+
+AVG(s.salary)
+5831211.942
+
+8. didn't get to attempt this one
