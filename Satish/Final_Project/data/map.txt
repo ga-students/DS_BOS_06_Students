@@ -10,7 +10,9 @@ japanese	EastAsian
 North-African	African
 MiddleEastern	MiddleEastern
 Indian	SouthAsian
-asian	
+asian	EastAsian
+Asian	EastAsian
+Korean  EastAsian
 Italy	SouthernEuropean
 EasternEuropean_Russian	EasternEuropean
 Israel	MiddleEastern
